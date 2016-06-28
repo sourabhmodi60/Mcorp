@@ -1,0 +1,20 @@
+{
+    "name": "Mcorp/Seo",
+    "type": "library",
+    "description": "Logging for PHP 5.3",
+    "keywords": ["log","logging"],
+    "homepage": "https://github.com/sourabhmodi60/Mcorp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sourabh Modi",
+            "email": "sourabhmodi60@gmail.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+    }
+}
