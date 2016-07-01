@@ -29,5 +29,7 @@
         "psr-4": {
             "Magento\\CatalogImportExport\\": ""
         }
-    }
+    },
+    "minimum-stability": "alpha",
+    "prefer-stable": true
 }
